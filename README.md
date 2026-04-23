@@ -97,4 +97,5 @@ To develop a machine learning model that accurately predicts whether a given pep
 ---
 
 ## Note 
+This project was part of a kaggle competition.
 
