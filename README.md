@@ -96,17 +96,5 @@ To develop a machine learning model that accurately predicts whether a given pep
 
 ---
 
-## 📂 Project Structure
+## Note 
 
-```bash
-
-├── input/
-│   ├── train.csv
-│   ├── test.csv
-│   
-├── outputs/
-│   └── submission.csv
-│
-├── Code.py
-├── requirements.txt
-└── README.md
