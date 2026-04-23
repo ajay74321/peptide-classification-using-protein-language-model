@@ -103,12 +103,10 @@ To develop a machine learning model that accurately predicts whether a given pep
 ├── input/
 │   ├── train.csv
 │   ├── test.csv
-│   ├── esm_embeddings/
-│   └── prott5_embeddings/
-│
+│   
 ├── outputs/
 │   └── submission.csv
 │
-├── Group_37.py
+├── Code.py
 ├── requirements.txt
 └── README.md
