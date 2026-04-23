@@ -99,7 +99,7 @@ To develop a machine learning model that accurately predicts whether a given pep
 ## 📂 Project Structure
 
 ```bash
-.
+
 ├── input/
 │   ├── train.csv
 │   ├── test.csv
